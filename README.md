@@ -1,2 +1,3 @@
 # Eat-Da-Burger
-CWRU Coding Boot Camp: Node, Express, Handlebars
+
+![Image of App](public/assets/images/eat-da-burger.png)
